@@ -6,7 +6,8 @@
 - **What to call them:** cherylma
 - **Pronouns:** (未指定)
 - **Timezone:** UTC (根据当前系统)
-- **Notes:** 喜欢尝试新技术，第一个任务是让我写一个 Hello World 并推送到 GitHub。
+- **Notes:** 喜欢尝试新技术。
+- **Design Preference:** 严格的蓝色系拥趸。主色必须用蓝，可用蓝紫渐变，严禁红、绿、黄。
 
 ## Context
 
